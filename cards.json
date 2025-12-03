@@ -1,0 +1,98 @@
+{
+    "dir": "./card_dir/",
+   
+    "cards": {
+        
+        "b0_0": "${dir}/carta_3",
+        "b0_1": "${dir}/carta_3",
+        "b0_2": "${dir}/carta_3",
+        "b0_3": "${dir}/carta_3",
+
+        "g0_0": "${dir}/carta_4",
+        "g0_1": "${dir}/carta_4",
+        "g0_2": "${dir}/carta_4",
+        "g0_3": "${dir}/carta_4",
+
+        "b1_0": "${dir}/carta_1",
+        "b1_1": "${dir}/carta_1",
+
+        "g1_0": "${dir}/carta_2",
+
+        "b2_0": "${dir}/carta_12",
+        "b2_1": "${dir}/carta_12",
+
+        "g2_0": "${dir}/carta_11",
+
+        "b3_0": "${dir}/carta_9",
+        "b3_1": "${dir}/carta_9",
+
+        "g3_0": "${dir}/carta_10",
+
+        "b4_0": "${dir}/carta_7",
+        "b4_1": "${dir}/carta_7",
+
+        "g4_0": "${dir}/carta_8",
+
+        "b5_0": "${dir}/carta_6",
+        "b5_1": "${dir}/carta_6",
+
+        "g5_0": "${dir}/carta_5",
+
+        "b6_0": "${dir}/carta_20",
+        "b6_1": "${dir}/carta_20",
+
+        "g6_0": "${dir}/carta_19",
+
+        "b7_0": "${dir}/carta_18",
+        "b7_1": "${dir}/carta_18",
+
+        "g7_0": "${dir}/carta_17",
+
+        "b8_0": "${dir}/carta_16",
+        "b8_1": "${dir}/carta_16",
+
+        "g8_0": "${dir}/carta_15",
+
+        "b9_0": "${dir}/carta_14",
+        "b9_1": "${dir}/carta_14",
+
+        "g9_0": "${dir}/carta_13",
+
+        "b10": "${dir}/carta_22",
+        "g10": "${dir}/carta_21",
+
+        "b15": "${dir}/carta_22",
+        "g15": "${dir}/carta_21",
+
+        "b20": "${dir}/carta_22",
+        "g20": "${dir}/carta_21",
+
+        "b25": "${dir}/carta_22",
+        "g25": "${dir}/carta_21",
+
+        "b30": "${dir}/carta_22",
+        "g30": "${dir}/carta_21",
+
+        "b35": "${dir}/carta_22",
+        "g35": "${dir}/carta_21",
+
+        "b40": "${dir}/carta_22",
+        "g40": "${dir}/carta_21",
+
+        "b45": "${dir}/carta_22",
+        "g45": "${dir}/carta_21",
+
+        "b50": "${dir}/carta_22",
+        "g50": "${dir}/carta_21",
+
+        "r100_0": "${dir}/carta_23",
+        "r100_1": "${dir}/carta_23",
+        "r100_2": "${dir}/carta_23",
+
+        "mazziere": "${dir}/carta_24",
+        
+        "x2": "${dir}/carta_25",
+        
+        "x0": "${dir}/carta_26"
+    }
+}
